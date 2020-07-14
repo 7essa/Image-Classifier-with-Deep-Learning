@@ -4,10 +4,8 @@
 ### The project 
 
 * The project divided in two parts
-
-            - Part one : Work through a Jupyter notebook to implement an image classifier with TensorFlow.
-            
-            - Part two : Use the saved Keras model from part one and use it to build application that others can use.The application should be a Python script that run from the command line. 
+- Part one : Work through a Jupyter notebook to implement an image classifier with TensorFlow.
+- Part two : Use the saved Keras model from part one and use it to build application that others can use.The application should be a Python script that run from the command line. 
             
 *  The project is an course project proviede by [**Udacity**](www.udacity.com) for Machine Learning Nano Degree 
 
